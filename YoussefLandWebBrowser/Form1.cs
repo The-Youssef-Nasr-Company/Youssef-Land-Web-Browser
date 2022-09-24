@@ -6,5 +6,10 @@ namespace YoussefLandWebBrowser
         {
             InitializeComponent();
         }
+
+        private void YLWebBrowser_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
