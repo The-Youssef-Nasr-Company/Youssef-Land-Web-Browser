@@ -1,7 +1,9 @@
 ﻿namespace YoussefLandWebBrowser
 {
-    partial class Form1
+    partial class YLWebBrowser
     {
+        private const string V = "Youssef Land Web Browser";
+
         /// <summary>
         ///  Required designer variable.
         /// </summary>
@@ -30,14 +32,14 @@
         {
             this.SuspendLayout();
             // 
-            // Youssef Land Web Browser
+            // YLWebBrowser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1071, 456);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "Youssef Land Web Browser";
-            this.Text = "Youssef Land Web Browser";
+            this.Name = "YLWebBrowser";
+            this.Text = V;
             this.ResumeLayout(false);
 
         }

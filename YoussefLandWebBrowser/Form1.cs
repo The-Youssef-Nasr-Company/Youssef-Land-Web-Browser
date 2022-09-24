@@ -1,8 +1,8 @@
 namespace YoussefLandWebBrowser
 {
-    public partial class Form1 : Form
+    public partial class YLWebBrowser : Form
     {
-        public Form1()
+        public YLWebBrowser()
         {
             InitializeComponent();
         }
